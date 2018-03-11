@@ -1,0 +1,5 @@
+rootProject.name = 'OSGI-Modules'
+
+
+include ':ejb-module'
+include ':openejb-embedded'
